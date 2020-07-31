@@ -1,0 +1,11 @@
+@media only screen and (max-width:992px){
+	.main-link{
+	color:white;
+	padding:20px 20px;
+	border-radius: 4px;
+	font-size:20px;
+	text-transform: capitalize;
+	text-shadow:2px 2px 4px rgb(227,171,66);
+	text-decoration: none;
+}
+}
